@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say language="es-PE" voice="alice">
+        Hola, se ha ganado la Tinka, Jajaja Mentira. Alerta: El valor del sensor ha superado el
+        límite establecido.
+    </Say>
+    <Pause length="2" />
+    <Say language="es-PE" voice="alice">
+        Por favor, verifique el sistema inmediatamente.
+    </Say>
+</Response>
